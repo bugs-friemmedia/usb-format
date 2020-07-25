@@ -1,7 +1,7 @@
 #!/bin/bash
 # 
 # USB-Format Skript
-# copyright, Februar 2020 by Robert Friemer
+# copyright, July 2020 by Robert Friemer @ friem[media]
 # Version 0.2
 #
 
