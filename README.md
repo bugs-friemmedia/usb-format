@@ -5,7 +5,7 @@ On the Shell you can run this Script as normal User but before the formatting of
 
 Here a successful Format of a 2GB USB-Stick.
 
-$ bash ./workspace/shell/tools/usb-format_en.sh 
+$ bash ./workspace/shell/tools/usb-format_en.sh
 <General UDisk 5.00>               at scbus7 target 0 lun 0 (da0,pass6)
 Which Device should be formatted?
 da0
@@ -29,7 +29,7 @@ Das neue Dateisystem wird formatiert.
 BytesPerSec=512 SecPerClust=64 ResSectors=1 FATs=2 RootDirEnts=512 Media=0xf0 FATsecs=238 SecPerTrack=63 Heads=255 HiddenSecs=0 HugeSectors=3891137
 =>     63  3891137  da0  MBR  (1.9G)
        63  3891137    1  fat16  (1.9G)
-
+       
 kern.geom.debugflags: 16 -> 0
 Finished!
 $ 
